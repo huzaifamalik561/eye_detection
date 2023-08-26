@@ -8,8 +8,8 @@ To run this application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/eye-distance-calculator.git
-   cd eye-distance-calculator
+   git clone [https://github.com/your-username/eye-distance-calculator.git
+   cd eye-distance-calculator](https://github.com/huzaifamalik561/eye_detection.git)
 pip install -r requirements.txt
 streamlit run app.py
 
